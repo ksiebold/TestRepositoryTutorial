@@ -1,3 +1,3 @@
 # Demo for the second file
 
-A strory about work
+A story about work and updates
